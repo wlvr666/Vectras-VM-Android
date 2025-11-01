@@ -95,3 +95,4 @@ Help support the project by contributing!
 [link-releases]: https://github.com/xoureldeen/Vectras-VM-Android/releases/
 [link-buymeacoffee]: https://www.buymeacoffee.com/vectrasvm
 [link-ko-fi]: https://ko-fi.com/vectrasvm
+# Build trigger
